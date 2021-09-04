@@ -125,5 +125,4 @@ ion-icon {
 #task-list li.done {
     background-color: #0c336d;
     color: #fff;
-    text-decoration: line-through;
 }
