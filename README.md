@@ -10,7 +10,3 @@ Uma lista de tarefas feita em javascript.
 - HTML
 - CSS
 - Javascript
-
-#Autor
-
-Lucas André Lemos Pereira
